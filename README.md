@@ -37,9 +37,9 @@ A modern Android application built with **Kotlin** and **Jetpack Compose** that 
 
 ## 📸 Screenshots
 
-### Home Screen
-
-![Home Screen](screenshots/q1.png)
+| Home Screen | Add RQG |
+|-------------|---------------|
+| ![Home](screenshots/q1.jpeg) | ![Add](screenshots/q2.jpeg) |
 
 ---
 
