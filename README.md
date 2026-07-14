@@ -1,4 +1,4 @@
-# 📜 Random Quote Generator
+# 📜 Random Quote Generator (RQG)
 
 A modern Android application built with **Kotlin** and **Jetpack Compose** that displays inspiring quotes with a clean Material 3 interface. The app provides random quotes from a local collection and allows users to copy or share them effortlessly.
 
